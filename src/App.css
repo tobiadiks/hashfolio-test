@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+*{
+  font-family: 'Poppins', sans-serif; 
+ }
+
+.emphasis{
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+.xsub-emphasis{
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.sub-emphasis{
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.mid-emphasis{
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.bold{
+  font-weight: 800;
+}
+
+.icons{
+  width: 5rem;
+  height:5rem;
+}
